@@ -1,0 +1,113 @@
+#header{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5))
+                ,url(../img/banner2_220150108050855.jpg) ;
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+}
+.navbar{
+    margin-bottom:0px ;
+    background-color:#ff792c;
+}
+#soma-navbar{
+    padding-right: 260px;
+}
+#soma-navbar li a{
+    color: rgb(255, 255, 255);
+    font-weight:900;
+}
+
+#soma-navbar ul{
+    font-size: medium;
+    font-family:serif;
+}
+#soma-navbar .logo{
+    float: left;
+    padding-left: 200px;
+}
+#soma-navbar  .logo h3{
+    color: white;
+    margin-left: 20px;
+}
+#introTxt{
+    margin-top: 60px;
+    color:white;
+    text-align: center;
+}
+#introTxt h1{
+    font-size: 44px;
+    letter-spacing: 2px;
+    font-family: fantasy;
+    margin-bottom: 30px;
+}
+#introTxt p{
+    font-size: 18px;
+    display: inline;
+    padding: 12px;
+}
+#introTxt p :hover {
+    border: 1px solid #ff792c;
+    padding: 15px;
+}
+#introTxt a{
+    text-decoration: none;
+    color: white;
+}
+#products{
+
+    background: white;
+}
+.product_img{
+    margin: 0 auto;
+}
+.title{
+    padding: 0;
+    font-size: 20px;
+    font-weight:bold ;
+    color: #ff792c;
+    margin-bottom: 10px;
+}
+.title2{
+    padding: 0;
+    font-size: 20px;
+    font-weight:bold ;
+    color: black;
+    margin-bottom: 10px;
+}
+.info{
+    color: #6a747b;
+}
+#welcome a{
+    text-decoration: none;
+}
+#services_links{
+    text-align: center;
+}
+#services_links .col-md-2  ul{
+    background:#ff792c ;
+}
+#services_links  .col-md-3 h3{
+    background:#ff792c ;
+}
+#services_links  .col-md-3 p{
+    background:#ff792c ;
+}
+#services_links  .col-md-3 .span1{
+    color: white;
+    font-size: 44px;
+}
+#services_links  .col-md-3 .span2{
+   color: white; 
+   font-size: large;
+}
+#services_links  .col-md-3 .span3{
+    color: white; 
+    font-size:medium;
+ }
+#footer_links{
+
+    border-top:1px solid #dfdfdf;
+    text-align: left;
+    padding: 40px 0 ;
+    background-color:rgb(212, 212, 212);
+}
